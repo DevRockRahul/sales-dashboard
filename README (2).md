@@ -31,11 +31,6 @@ The dataset contains **10,000+ records** with the following columns:
 
 ---
 
-## 📷 Dashboard Preview
-> *(Add screenshot of your dashboard here for better visualization)*
-
----
-
 ## 🔧 How to Use
 1. Clone this repository:
    ```bash
